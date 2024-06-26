@@ -3,7 +3,7 @@
 
 ## Paper Information
 
-**Title:** "Automatic construction of hierachical semantics for zero-shot cross-domain fault diagnosis"
+**Title:** ""
 
 **Abstract:**
 
